@@ -1,0 +1,5 @@
+@import "style.css";
+
+div#content {
+    background-color: #eab7b7 !important;
+}
