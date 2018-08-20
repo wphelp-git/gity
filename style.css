@@ -52,6 +52,12 @@ Styles based on Normalize v5.0.0 @link https://github.com/necolas/normalize.css
 --------------------------------------------------------------*/
 
 
+header.page-header {
+    background-color: #f30808;
+}
+
+
+
 html {
 	font-family: sans-serif;
 	line-height: 1.15;
